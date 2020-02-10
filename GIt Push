@@ -1,0 +1,10 @@
+//Add your code to Github
+ 1. Navigate to the folder where u have your code.
+ 2. initialize  git using  "git int"
+ 3. add the files to new local respository, use command "git add ."
+ 4. you can check status using  "git status"
+ 5. now u need to commit using the command "git commit -m "<commit_name>"".
+ 6. after commiting set a remote using  "git remote add origin <repository link>"
+ 7.  "git Push -u origin master"  and the code will be pushed
+
+
